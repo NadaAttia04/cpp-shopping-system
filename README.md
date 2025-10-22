@@ -34,14 +34,12 @@ Develop a graphical user interface (GUI) using Qt or C++/CLI
 
 Integrate a lightweight database like SQLite
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Nada Attia
-📎 [GitHub Profile](https://github.com/NadaAttia04)
-Farida Ayman
-📎 [GitHub Profile](https://github.com/FaridaAyman)
-Rodina Ahmed
-📎 [GitHub Profile](https://github.com/RodinaAhmed2)
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
+- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
 
+---
 
-⭐ If you like this project, don't forget to star the repository!
+⭐ *If you like this project, don't forget to star the repository!*
