@@ -19,6 +19,7 @@ It allows users to register, log in, manage products, and perform shopping cart 
   - Automatically generate receipts for purchases
 - 🧭 **Interactive Menu**
   - Easy-to-navigate text-based interface
+  - .
 
 ---
 
