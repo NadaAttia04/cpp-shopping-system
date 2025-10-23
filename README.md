@@ -3,7 +3,7 @@
 **Online Shopping System in C++**
 
 This is a simple console-based online shopping system written in **C++**.  
-It allows users to register, log in, manage products, and perform shopping cart operations through a text-based interface.
+It allows users to register, log in, manage products, and perform shopping cart operations through a text-based interface
 
 ---
 
